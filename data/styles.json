@@ -1,0 +1,24 @@
+{
+  "Lovely": {
+    "voice": "neutral",
+    "formality": "semi-formal",
+    "length": "short",
+    "structure": "problem→solution"
+  },
+  "Chilled": {
+    "voice": "enthusiastic",
+    "formality": "formal",
+    "length": "short",
+    "structure": "problem→solution"
+  },
+  "Company EQ.": {
+    "voice": "enthusiastic",
+    "formality": "conversational",
+    "structure": "problem→solution"
+  },
+  "Faisal": {
+    "voice": "conversational",
+    "formality": "semi-formal",
+    "structure": "problem→solution"
+  }
+}

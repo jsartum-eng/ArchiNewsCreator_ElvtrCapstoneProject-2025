@@ -1,0 +1,61 @@
+{
+  "Test": {
+    "name": "Test",
+    "client": "Company EQ.",
+    "location": "Berlin",
+    "type": "Office",
+    "size_scope": "3000 spm",
+    "volume": "10 Mio.",
+    "timeline": "2025-2028",
+    "phase": "Design",
+    "architectural_firm": [
+      "Scherzer Architekten Partnerschaft"
+    ],
+    "custom_usps": [
+      "Open plan",
+      "Green building",
+      "Smart Offices"
+    ]
+  },
+  "Elvtr Capstone": {
+    "name": "Elvtr Capstone",
+    "client": "Faisal",
+    "location": "London",
+    "type": "Residential",
+    "size_scope": "3000 sqm",
+    "volume": "12 Mio.$",
+    "timeline": "2025-2028",
+    "phase": "Design",
+    "architectural_firm": [
+      "Scherzer Architekten"
+    ],
+    "custom_usps": [
+      "Smart home",
+      "Community spaces",
+      "Green building",
+      "Public plaza",
+      "Energy Efficient"
+    ]
+  },
+  "Elvtr Capstone Project": {
+    "name": "Elvtr Capstone Project",
+    "client": "Faisal",
+    "location": "London",
+    "type": "Cultural",
+    "size_scope": "4000 sqm",
+    "volume": "18 Mio.$",
+    "timeline": "2025-2028",
+    "phase": "Design",
+    "architectural_firm": [
+      "Scherzer Architekten"
+    ],
+    "custom_usps": [
+      "Public plaza",
+      "Exhibition halls",
+      "Performance spaces",
+      "Community spaces",
+      "Energy Efficient",
+      "Green building"
+    ]
+  }
+}

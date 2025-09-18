@@ -1,0 +1,9 @@
+{
+  "brand_name": "Studio Muster",
+  "primary_hex": "#0F172A",
+  "accent_hex": "#22C55E",
+  "text_hex": "#111827",
+  "font_size_title": 52,
+  "font_size_body": 28,
+  "watermark": true
+}
